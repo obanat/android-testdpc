@@ -1,6 +1,22 @@
-bazel-android-testdpc
-bazel-bin
-bazel-out
-bazel-testlogs
-**/*.iml
-.idea
+*~
+*.bak
+*.class
+bin/
+*.properties
+*.project
+*.cproject
+*.settings
+*.pyc
+
+# idea project files
+.idea/
+.idea/.name
+*.iml
+*.ipr
+*.iws
+
+#Gradle-based build
+.gradle
+build/
+# Android Studio/IntelliJ IDEA related files.
+*.iml
