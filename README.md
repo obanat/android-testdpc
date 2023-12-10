@@ -3,7 +3,13 @@ Test Device Policy Control (Test DPC) App
 
 This project revert to gradle build based on Test DPC newest branch 9.0
 
+compile & run success on
 
+openjdk 11
+
+android.useAndroidX=true
+
+gradle-7.5.1
 
 License
 -------
