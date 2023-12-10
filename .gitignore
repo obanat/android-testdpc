@@ -2,7 +2,6 @@
 *.bak
 *.class
 bin/
-
 *.project
 *.cproject
 *.settings
